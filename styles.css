@@ -1,0 +1,41 @@
+
+body {
+  font-family: Arial, sans-serif;
+  background: #fffdf7;
+  margin: 0;
+  padding: 0;
+  color: #333;
+}
+header {
+  background: #ff7043;
+  color: white;
+  text-align: center;
+  padding: 2rem;
+}
+.product {
+  text-align: center;
+  padding: 2rem;
+}
+.product img {
+  max-width: 100%;
+  height: auto;
+}
+.product button {
+  padding: 1rem 2rem;
+  background: #ff7043;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.story {
+  background: #fff3e0;
+  padding: 2rem;
+  margin: 2rem;
+  border-radius: 8px;
+}
+footer {
+  text-align: center;
+  padding: 1rem;
+  background: #ffe0b2;
+}
